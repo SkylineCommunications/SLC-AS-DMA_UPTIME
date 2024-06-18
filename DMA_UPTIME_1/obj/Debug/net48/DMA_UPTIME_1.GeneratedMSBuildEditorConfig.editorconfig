@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DMA_UPTIME_1
+build_property.ProjectDir = C:\GIT\Automation\Generic\DataMiner Solutions\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
