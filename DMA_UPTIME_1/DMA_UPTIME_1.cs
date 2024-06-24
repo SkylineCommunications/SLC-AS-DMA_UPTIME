@@ -53,15 +53,19 @@ namespace DMA_UPTIME_1
 {
 	using System;
 	using System.Collections.Generic;
-	using System.Globalization;
-	using System.Text;
+	using Newtonsoft.Json;
 	using Skyline.DataMiner.Automation;
-	
+	using Skyline.DataMiner.Net;
+	using Skyline.DataMiner.Net.Messages;
+
 	/// <summary>
 	/// Represents a DataMiner Automation script.
 	/// </summary>
 	public class Script
 	{
+		private string subId;
+		private Dictionary<string, int> uptimes;
+
 		/// <summary>
 		/// The script entry point.
 		/// </summary>
@@ -101,7 +105,58 @@ namespace DMA_UPTIME_1
 
 		private void RunSafe(IEngine engine)
 		{
-			// TODO: Define code here
+			var uptimesReceived = GetDmaUptime(engine);
+
+			List<TestResult> results = new List<TestResult>();
+			foreach (var uptime in uptimesReceived)
+			{
+				TestResult testResult = new TestResult()
+				{
+					ParameterName = "DMA Up Time",
+					DmaName = uptime.Key,
+					ReceivedValue = uptime.Value.ToString(),
+				};
+				engine.GenerateInformation(uptime.Key);
+				engine.GenerateInformation(uptime.Value.ToString());
+			}
+
+			engine.AddScriptOutput("result", JsonConvert.SerializeObject(results));
+		}
+
+		private Dictionary<string, int> GetDmaUptime(IEngine engine)
+		{
+			subId = Guid.NewGuid().ToString();
+			uptimes = new Dictionary<string, int>();
+			IConnection connection = Engine.SLNetRaw;
+			connection.OnNewMessage += HandleMessage;
+			connection.AddSubscription(subId, new SubscriptionFilter(typeof(DataMinerPerformanceInfoEventMessage)));
+			engine.Sleep(1000);
+			connection.OnNewMessage -= HandleMessage;
+			connection.RemoveSubscription(subId);
+			return uptimes;
+		}
+
+		private void HandleMessage(object sender, NewMessageEventArgs newEvent)
+		{
+			if (!newEvent.FromSet(subId))
+			{
+				return;
+			}
+
+			if (newEvent.Message is DataMinerPerformanceInfoEventMessage performanceMessage)
+			{
+				TimeSpan uptime = DateTime.Now - performanceMessage.StartupTime;
+				uptimes[performanceMessage.DataMinerName] = (int)uptime.TotalHours;
+			}
+		}
+
+		public class TestResult
+		{
+			public string ParameterName { get; set; }
+
+			public string DmaName { get; set; }
+
+			public string ReceivedValue { get; set; }
 		}
 	}
 }

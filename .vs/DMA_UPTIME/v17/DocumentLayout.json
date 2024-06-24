@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_UPTIME\\",
+  "WorkspaceRootPath": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|c:\\git\\automation\\generic\\dataminer solutions\\slc-as-dma_uptime\\dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|c:\\users\\57311\\documents\\github\\slc-as-dma_uptime\\dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|solutionrelative:dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|DMA_UPTIME{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|DMA_UPTIME{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|solutionrelative:DMA_UPTIME.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DMA_UPTIME_1.cs",
-              "DocumentMoniker": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_UPTIME\\DMA_UPTIME_1\\DMA_UPTIME_1.cs",
-              "RelativeDocumentMoniker": "DMA_UPTIME_1\\DMA_UPTIME_1.cs",
-              "ToolTip": "C:\\GIT\\Automation\\Generic\\DataMiner Solutions\\SLC-AS-DMA_UPTIME\\DMA_UPTIME_1\\DMA_UPTIME_1.cs",
-              "RelativeToolTip": "DMA_UPTIME_1\\DMA_UPTIME_1.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAgwFoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T15:39:07.431Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7505da5e-07d6-4842-9870-2f708552e445}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{22f8e717-7905-4e00-93a7-c1717c56d1d5}"
             },
             {
               "$type": "Bookmark",
@@ -35,7 +54,54 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{64debe95-07ea-48ac-8744-af87605d624a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DMA_UPTIME.xml",
+              "DocumentMoniker": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME.xml",
+              "RelativeDocumentMoniker": "DMA_UPTIME.xml",
+              "ToolTip": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME.xml",
+              "RelativeToolTip": "DMA_UPTIME.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-18T15:50:10.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DMA_UPTIME_1.cs",
+              "DocumentMoniker": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME_1\\DMA_UPTIME_1.cs",
+              "RelativeDocumentMoniker": "DMA_UPTIME_1\\DMA_UPTIME_1.cs",
+              "ToolTip": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME_1\\DMA_UPTIME_1.cs",
+              "RelativeToolTip": "DMA_UPTIME_1\\DMA_UPTIME_1.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAkwIcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:39:07.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 952,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c3139ba4-79f5-486d-9ce0-b17394d26f9b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{513ea8d3-d94d-4be6-9179-18ce27f142db}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -44,42 +110,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{513ea8d3-d94d-4be6-9179-18ce27f142db}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c3139ba4-79f5-486d-9ce0-b17394d26f9b}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e51e6b11-02d8-4350-932f-095bcbeb79f8}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{7505da5e-07d6-4842-9870-2f708552e445}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
