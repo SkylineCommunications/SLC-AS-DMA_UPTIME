@@ -53,6 +53,7 @@ namespace DMA_UPTIME_1
 {
 	using System;
 	using System.Collections.Generic;
+	using System.IO;
 	using Newtonsoft.Json;
 	using Skyline.DataMiner.Automation;
 	using Skyline.DataMiner.Net;
@@ -105,6 +106,7 @@ namespace DMA_UPTIME_1
 
 		private void RunSafe(IEngine engine)
 		{
+
 			var uptimesReceived = GetDmaUptime(engine);
 
 			List<TestResult> results = new List<TestResult>();
@@ -112,12 +114,13 @@ namespace DMA_UPTIME_1
 			{
 				TestResult testResult = new TestResult()
 				{
-					ParameterName = "DMA Up Time",
+					ParameterName = "DMA_UPTIME",
 					DmaName = uptime.Key,
 					ReceivedValue = uptime.Value.ToString(),
 				};
 				engine.GenerateInformation(uptime.Key);
 				engine.GenerateInformation(uptime.Value.ToString());
+				results.Add(testResult);
 			}
 
 			engine.AddScriptOutput("result", JsonConvert.SerializeObject(results));
