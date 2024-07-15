@@ -5,7 +5,7 @@
 	<Type>Automation</Type>
 	<Author>SKYLINE2\EPA</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder></Folder>
+	<Folder>Health Check/Health Check Tests</Folder>
 
 	<Protocols>
 	</Protocols>

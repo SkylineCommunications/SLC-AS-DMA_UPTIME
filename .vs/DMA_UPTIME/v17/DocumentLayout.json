@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|c:\\users\\57311\\documents\\github\\slc-as-dma_uptime\\dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|solutionrelative:dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|DMA_UPTIME{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|DMA_UPTIME{ACD0B162-CF8B-4E7B-9617-47B3D3A4FB45}|solutionrelative:DMA_UPTIME.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|c:\\users\\57311\\documents\\github\\slc-as-dma_uptime\\dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760AC390-DDF3-4950-9832-30C679C23D84}|DMA_UPTIME_1\\DMA_UPTIME_1.csproj|solutionrelative:dma_uptime_1\\dma_uptime_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,28 +58,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DMA_UPTIME.xml",
               "DocumentMoniker": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME.xml",
               "RelativeDocumentMoniker": "DMA_UPTIME.xml",
               "ToolTip": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME.xml",
               "RelativeToolTip": "DMA_UPTIME.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-06-18T15:50:10.035Z"
+              "WhenOpened": "2024-06-18T15:50:10.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DMA_UPTIME_1.cs",
               "DocumentMoniker": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME_1\\DMA_UPTIME_1.cs",
               "RelativeDocumentMoniker": "DMA_UPTIME_1\\DMA_UPTIME_1.cs",
               "ToolTip": "C:\\Users\\57311\\Documents\\GitHub\\SLC-AS-DMA_UPTIME\\DMA_UPTIME_1\\DMA_UPTIME_1.cs",
               "RelativeToolTip": "DMA_UPTIME_1\\DMA_UPTIME_1.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAA3wHQAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T15:39:07.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T15:39:07.431Z"
             }
           ]
         },
