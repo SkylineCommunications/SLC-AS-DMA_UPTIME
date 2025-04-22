@@ -4,3 +4,26 @@ C:\Users\57311\Documents\GitHub\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\D
 C:\Users\57311\Documents\GitHub\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.AssemblyInfo.cs
 C:\Users\57311\Documents\GitHub\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.csproj.CoreCompileInputs.cache
 C:\Users\57311\Documents\GitHub\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.sourcelink.json
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\DMA_UPTIME_1.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\DMA_UPTIME_1.pdb
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\DMA_UPTIME_1.xml
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\DataMinerMessageBroker.API.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\protobuf-net.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\Skyline.DataMiner.Storage.Types.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\SLAnalyticsTypes.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\SLLoggerUtil.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\SLManagedAutomation.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\SLNetTypes.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\bin\Debug\net48\SLProtoBufLibrary.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.csproj.AssemblyReference.cache
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.AssemblyInfoInputs.cache
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.AssemblyInfo.cs
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.csproj.CoreCompileInputs.cache
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.sourcelink.json
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTI.CA9C9472.Up2Date
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.dll
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.xml
+C:\Users\Danielapr\Downloads\Temp Health Check scripts\SLC-AS-DMA_UPTIME\DMA_UPTIME_1\obj\Debug\net48\DMA_UPTIME_1.pdb
